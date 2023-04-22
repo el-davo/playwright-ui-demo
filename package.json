@@ -1,0 +1,13 @@
+{
+  "name": "playwright-ui-demo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nx": "15.9.2"
+  }
+}
